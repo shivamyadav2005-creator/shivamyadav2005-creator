@@ -58,4 +58,4 @@ Finance management platform that utilizes machine learning to track expenses, an
 * Scalable System Design
 
 ## Connect
-Email: shiva,yadav2005@gmail.com
+Email: shivamyadav2005@gmail.com
